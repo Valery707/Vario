@@ -1,0 +1,5 @@
+curs=("Pyton,")
+vsego_zadach=(12)
+chas=(1.5)
+vremya=(chas/vsego_zadach)
+print("Курс:",curs,"всего задач:",vsego_zadach,", затрачено часов:",chas,", среднее время выполнения:",vremya,"часа.")
